@@ -12,7 +12,7 @@ python greet.py --name Alice
 ## Features
 
 - Greets users by name
-- Defaults to "World" if no name is provded
+- Defaults to "World" if no name is provided
 - Prints a friendly timestamped message
 
 ## Requirements
